@@ -1177,10 +1177,27 @@
                  "width":2994.74605954466,
                  "x":-4.37828371278459,
                  "y":-13.1348511383538
+                }, 
+                {
+                 "height":54,
+                 "id":908,
+                 "name":"exit-to-admin",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-admin#entery"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":100,
+                 "x":878,
+                 "y":1930
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -2335,7 +2352,7 @@
          "y":0
         }],
  "nextlayerid":35,
- "nextobjectid":908,
+ "nextobjectid":909,
  "orientation":"orthogonal",
  "properties":[
         {
