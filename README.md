@@ -14,10 +14,6 @@ Learn more about us at https://100roadsdesign.com.
 
 There are two virtual campuses in this repository.
 
-![map](cc-admin-readme.png)
-
-Map name: Choice Charter School Admin.
-
 ![map](cc-garden-of-eden-readme.png)
 
 Map name: Choice Charter School Garden of Eden.
